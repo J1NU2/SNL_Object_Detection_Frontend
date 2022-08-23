@@ -1,6 +1,6 @@
 # 😊 SNL_Object_Detection
 
-SNL 연예인 닮은 꼴 찾기
+사물인식 머신러닝을 이용한 SNL 연예인 닮은 꼴 찾기
 
 <br/>
 
